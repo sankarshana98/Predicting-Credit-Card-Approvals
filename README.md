@@ -1,4 +1,5 @@
 # Credit Card Approval Predictor
+![image](https://github.com/user-attachments/assets/932f04a6-7509-4e72-9f96-ecbb19c2cee4)
 
 This project automates the credit card approval process using supervised learning techniques. The goal is to classify credit card applications into approved or rejected categories based on the provided dataset. The project includes data preprocessing, model training, hyperparameter tuning, and evaluation to achieve the best performance.
 
@@ -67,3 +68,5 @@ After training and tuning multiple models, the best model selected was the **Ran
 
 The model performed well on the test set, achieving an accuracy score of 0.848, which exceeds the target accuracy of 0.75. This indicates that the model is effective in predicting credit card approvals based on the features provided.
 
+#### Acknowledgements
+This project was inspired by a DataCamp course.
